@@ -14,7 +14,7 @@ return function()
    {bold}update{reset} Update a compiler\
   \
   {bold}Examples:{reset}\
-  {bold}rcc{reset} install roblox-py`  
+   {bold}rcc{reset} install roblox-py`  
 
   print(help_message)
 end
